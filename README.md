@@ -1,2 +1,2 @@
 # EulerMethod-MidpointEuler
-Use Euler &amp; Midpoint Euler Method to predict control system response
+Use of the Euler &amp; Midpoint Euler Method to predict control system response
